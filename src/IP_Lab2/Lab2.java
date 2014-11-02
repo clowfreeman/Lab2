@@ -1,14 +1,18 @@
-package Gol;
+package IP_Lab2;
 
-import Gol.Burger;
-import Gol.CardCredit;
-import Gol.Crispy;
-import Gol.DoubleCrispy;
-import Gol.ExceptiileMele;
-import Gol.Gestiune_KFC;
-import Gol.PayPal;
-import Gol.Plata;
+import KFC.Burger;
+import KFC.CardCredit;
+import KFC.Crispy;
+import KFC.DoubleCrispy;
+import KFC.PayPal;
+import KFC.Plata;
+import exceptions.ExceptiileMele;
+import interfaces.Gestiune_KFC;
 
+/**
+ * @author ClPardos
+ *
+ */
 public class Lab2 {
 
 	/**
@@ -21,6 +25,10 @@ public class Lab2 {
         System.out.println("Hello new exception");
         throw newExc;       
 }
+	/**
+	 * @param args
+	 * @throws ExceptiileMele
+	 */
 	public static void main(String[] args) throws ExceptiileMele {
 		// TODO Auto-generated method stub
 		/*MMMAMDAS*/

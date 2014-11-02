@@ -1,7 +1,7 @@
 /**
  * 
  */
-package Gol;
+package interfaces;
 
 /**
  * @author ClPardos

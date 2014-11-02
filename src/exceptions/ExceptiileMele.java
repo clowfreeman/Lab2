@@ -1,7 +1,7 @@
 /**
  * 
  */
-package Gol;
+package exceptions;
 
 /**
  * @author ClPardos

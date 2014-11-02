@@ -1,5 +1,9 @@
-package Gol;
+package KFC;
 
+/**
+ * @author ClPardos
+ *
+ */
 public class CardCredit extends Plata {
 
 	
